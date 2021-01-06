@@ -55,7 +55,7 @@ module.exports = {
       //
       //  For example:
       //  ```
-        sails_datastores__default__url='postgres://idokbqjzsdnnwd:1dcba504d7d5be078aa845fcb16f900691efd9bab50049b919c0c8b0d06df82e@ec2-3-215-76-208.compute-1.amazonaws.com:5432/d6qfa9s52ndfer'
+      //  sails_datastores__default__url=mysql://admin:myc00lpAssw2D@db.example.com:3306/my_prod_db
       //  ```
       //--------------------------------------------------------------------------
 
